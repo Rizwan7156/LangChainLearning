@@ -1,17 +1,29 @@
-# Hour 1 Summary
+# Hour 1 – Setup and Environment (Enhanced with Claude LLM)
+
+## Topic
+
+Setup and Environment
+
+---
 
 ## Concepts Covered
-- Environment Setup
+
 - Python Virtual Environment
-- LangChain Installation
-- LangGraph Installation
-- LangSmith Installation
+- Dependencies Installation
+- API Key Management
+- Project Structure
+- Claude API Integration
+- Large Language Model (LLM)
+- Browser-based User Interface
+- Git & GitHub Source Control
 
-## Deliverables
-- hello.py
-- .env.sample
-- README.md
+---
 
-## Learning Outcome
-Successfully configured the local
-LangChain learning environment.
+## Hands-on Activities Completed
+
+### Environment Setup
+
+Created a Python virtual environment:
+
+```bash
+python -m venv .venv
