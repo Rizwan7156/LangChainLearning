@@ -1,9 +1,0 @@
-LangChain is a framework for developing applications powered by language models.
-
-LangGraph is used for building stateful, multi-step agent workflows.
-
-LangSmith provides tracing, debugging and monitoring for LLM applications.
-
-RAG stands for Retrieval Augmented Generation.
-
-Vector databases store embeddings and allow semantic search.
