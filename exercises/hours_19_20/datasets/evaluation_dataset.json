@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is RAG?",
+    "expected": "Retrieval Augmented Generation"
+  },
+  {
+    "question": "What is LangGraph?",
+    "expected": "workflow orchestration"
+  },
+  {
+    "question": "What is LangChain?",
+    "expected": "LLM applications"
+  },
+  {
+    "question": "What are embeddings?",
+    "expected": "vector representations"
+  },
+  {
+    "question": "What is a retriever?",
+    "expected": "relevant documents"
+  }
+]
