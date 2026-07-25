@@ -1,0 +1,19 @@
+LangChain is a framework used to build applications powered by Large Language Models.
+
+LangGraph is a workflow orchestration framework built on top of LangChain.
+
+RAG stands for Retrieval Augmented Generation.
+
+RAG combines retrieval systems and LLMs to generate grounded responses.
+
+Embeddings convert text into vector representations.
+
+Vector stores allow similarity search over vectors.
+
+Retrievers fetch the most relevant documents for a user query.
+
+Claude is an advanced Large Language Model developed by Anthropic.
+
+FAISS is a vector database commonly used for semantic search.
+
+Grounded generation helps reduce hallucination by using retrieved context.
